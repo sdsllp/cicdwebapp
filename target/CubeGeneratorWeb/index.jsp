@@ -1,6 +1,5 @@
 <html>
 <body>
-<h2>Hello World!</h2>
-<p style="color:red">This is a paragraph.</p>
+<h2>Hello Tomcat!</h2>
 </body>
 </html>
